@@ -16,7 +16,7 @@ Hyle is a python based program for simple audio steganography. You can hide your
 ## Installation💻
 
 ```
-git clone https://github.com/Elkyw/Hyle.git
+git clone https://github.com/tucommenceapousser/Hyle.git
 cd Hyle
 ```
 ## Usage
@@ -37,5 +37,5 @@ python3 Hyle.py -f Demo.wav -m "sup mfs" -o Secret.wav
 python3 Antihyle.py -f secret.wav
 ```
 
-#### Sub me over on my <a href="http://youtube.com/@Elkyw">Youtube channel 🍁</a>
+#### Sub me over on my <a href="http://youtube.com/">Youtube channel 🍁</a>
 ### Wanna buy me a cupp of coffee ☕ ??
